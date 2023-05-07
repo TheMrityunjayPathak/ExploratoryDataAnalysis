@@ -1,6 +1,6 @@
-🔍 **Exploratory Data Analysis** 🔎
-
 ![Exploratory-Data-Analysis](https://user-images.githubusercontent.com/123563634/236670006-7bf7907b-dc8b-49d8-b345-1bf8df66435f.jpg)
+
+🔍 **Exploratory Data Analysis** 🔎
 
 Hello Everyone,👋
 Here is my Exploratory Data Analysis Project on IRIS Dataset where I analyzed the Data by using Graphs,Charts and Some Pandas Functions.
@@ -17,4 +17,10 @@ Depending on the number of columns we are analyzing we can divide EDA into three
 
 2️⃣ **Bi-Variate analysis** – This type of data involves two different variables. The analysis of this type of data deals with causes and relationships and the analysis is done to find out the relationship between the two variables.
 
-3️⃣ **Multivariate Analysis**  – When the data involves three or more variables, it is categorized under multivariate
+3️⃣ **Multivariate Analysis**  – When the data involves three or more variables, it is categorized under multivariate.
+
+🗯️ **About the Dataset**
+
+This Dataset consists of 3 different types of Iris Flower (Setosa, Versicolour, and Virginica) information including its Petal Lenght, Sepal Length, Petal Width, Sepal Width, Variety of the Flower.
+
+👉 **Link to the Dataset :** https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html
