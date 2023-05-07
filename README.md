@@ -1,9 +1,8 @@
-![Exploratory-Data-Analysis](https://user-images.githubusercontent.com/123563634/236670006-7bf7907b-dc8b-49d8-b345-1bf8df66435f.jpg)
-
 🔍 **Exploratory Data Analysis** 🔎
 
 Hello Everyone,👋
-Here is my Exploratory Data Analysis Project on IRIS Dataset where I analyzed the Data by using Graphs,Charts and Some Pandas Functions.
+
+Here is My EDA Project on IRIS Dataset where I analyzed the Data by using Seaborn and Matplotlib.
 
 ❓ **What is EDA?**
 
