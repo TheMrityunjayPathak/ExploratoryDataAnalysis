@@ -1,4 +1,9 @@
+#ExploratoryDataAnalysis
+
 🔍 **Exploratory Data Analysis** 🔎
+
+Hello Everyone,👋
+Here is my Exploratory Data Analysis Project on IRIS Dataset where I analyzed the Data by using Graphs,Charts and Some Pandas Functions.
 
 Exploratory Data Analysis (EDA) is an approach that is used to analyze the data and discover trends, patterns, or check assumptions in data with the help of statistical summaries and graphical representations. 
 
