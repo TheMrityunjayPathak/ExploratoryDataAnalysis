@@ -1,6 +1,6 @@
 🔍 **Exploratory Data Analysis** 🔎
 
-Hello Everyone,👋
+Hello Everyone, 👋
 
 Here is My EDA Project on IRIS Dataset where I analyzed the Data by using Seaborn and Matplotlib.
 
