@@ -18,8 +18,8 @@ Depending on the number of columns we are analyzing we can divide EDA into three
 
 3️⃣ **Multivariate Analysis**  – When the data involves three or more variables, it is categorized under multivariate.
 
-🗯️ **About the Dataset**
+❔ **About the Dataset**
 
 This Dataset consists of 3 different types of Iris Flower (Setosa, Versicolour, and Virginica) information including its Petal Lenght, Sepal Length, Petal Width, Sepal Width, Variety of the Flower.
 
-👉 **Link to the Dataset :** https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html
+📍 **Link to the Dataset :** [Iris Dataset](https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html)
