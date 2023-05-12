@@ -4,22 +4,52 @@ Hello Everyone, 👋
 
 Here is My EDA Project on IRIS Dataset where I analyzed the Data by using Seaborn and Matplotlib.
 
-❓ **What is EDA?**
-
-Exploratory Data Analysis (EDA) is an approach that is used to analyze the data and discover trends, patterns, or check assumptions in data with the help of statistical summaries and graphical representations. 
-
-👉 **Types of EDA**
-
-Depending on the number of columns we are analyzing we can divide EDA into three types.
-
-1️⃣ **Univariate Analysis** – In univariate analysis, we analyze or deal with only one variable at a time. The analysis of univariate data is thus the simplest form of analysis since the information deals with only one quantity that changes. It does not deal with causes or relationships and the main purpose of the analysis is to describe the data and find patterns that exist within it.
-
-2️⃣ **Bi-Variate analysis** – This type of data involves two different variables. The analysis of this type of data deals with causes and relationships and the analysis is done to find out the relationship between the two variables.
-
-3️⃣ **Multivariate Analysis**  – When the data involves three or more variables, it is categorized under multivariate.
-
 ❔ **About the Dataset**
 
 This Dataset consists of 3 different types of Iris Flower (Setosa, Versicolour, and Virginica) information including its Petal Lenght, Sepal Length, Petal Width, Sepal Width, Variety of the Flower.
 
 📍 **Link to the Dataset :** [Iris Dataset](https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html)
+
+📝 **Steps involved in the Project**
+
+1️⃣ **Importing libraries required for Project**
+
+2️⃣ **Reading CSV File**
+
+3️⃣ **Exploring the Dataset**
+
+4️⃣ **Checking Null Values in Dataset**
+
+5️⃣ **Splitting Dataset based on Species of Flower**
+
+6️⃣ **Data Visualization**
+
+- Count Plot on IRIS Dataset
+
+📌A Count Plot is similar to a Bar Plot and a Histogram and provides counts of categorical values.
+
+- Scatter Plot on IRIS Dataset
+
+📌Scatter plots are the graphs that present the relationship between two variables in a data-set.
+
+- Pair Plot on IRIS Dataset
+
+📌To Plot Multiple Pairwise Bivariate Distributions in a Dataset, you can use the sns.pairplot() function.
+
+- Distribution of Sepal Length and Petal Length of Different Species of Flower
+
+📌Distribution plots show how a variable (or multiple variables) is distributed.To Plot distribution plots you can use the sns.displot() function.
+
+- Box Plot on IRIS Dataset
+
+📌A box and whisker plot—also called a box plot—displays the five-number summary of a set of data. 
+
+📌The five-number summary is the minimum, first quartile, median, third quartile, and maximum.
+
+- Heat Map on IRIS Dataset
+
+📌Heat Map is used to find out the Correlation between different features in the Dataset. 
+
+📌High Positive or Negative value shows that the features have high Correlation.
+
+📌A Correlation Heatmap is a graphical tool that displays the correlation between multiple variables as a color-coded matrix.
