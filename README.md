@@ -6,7 +6,9 @@ Here is My EDA Project on IRIS Dataset where I analyzed the Data by using Seabor
 
 ❔ **About the Dataset**
 
-This Dataset consists of 3 different types of Iris Flower (Setosa, Versicolour, and Virginica) information including its Petal Lenght, Sepal Length, Petal Width, Sepal Width, Variety of the Flower.
+🔹This Dataset consists of 3 different types of Iris Flower (Setosa, Versicolour, and Virginica).
+
+🔹The information includes its Petal Lenght, Sepal Length, Petal Width, Sepal Width, Variety of the Flower.
 
 📍 **Link to the Dataset :** [Iris Dataset](https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html)
 
@@ -38,7 +40,9 @@ This Dataset consists of 3 different types of Iris Flower (Setosa, Versicolour, 
 
 📈 **Distribution of Sepal Length and Petal Length of Different Species of Flower**
 
-🔹Distribution plots show how a variable (or multiple variables) is distributed.To Plot distribution plots you can use the sns.displot() function.
+🔹Distribution plots show how a variable (or multiple variables) is distributed.
+
+🔹To Plot distribution plots you can use the sns.displot() function.
 
 📊 **Box Plot on IRIS Dataset**
 
