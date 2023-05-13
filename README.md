@@ -4,7 +4,7 @@ Hello Everyone, 👋
 
 Here is My EDA Project on IRIS Dataset where I analyzed the Data by using Seaborn and Matplotlib.
 
-❔ **About the Dataset**
+❓ **About the Dataset**
 
 🔹This Dataset consists of 3 different types of Iris Flower (Setosa, Versicolour, and Virginica).
 
