@@ -46,7 +46,7 @@ Here is My EDA Project on IRIS Dataset where I analyzed the Data by using Seabor
 
 📊 **Box Plot on IRIS Dataset**
 
-🔹A box and whisker plot—also called a box plot—displays the five-number summary of a set of data. 
+🔹A box and whisker plot also called a box plot displays the five-number summary of a set of data. 
 
 🔹The five-number summary is the minimum, first quartile, median, third quartile, and maximum.
 
