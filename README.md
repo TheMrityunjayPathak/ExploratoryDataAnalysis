@@ -78,7 +78,7 @@ Jupyter Notebook is required for this project and you can install and set it up 
 
 ⌛ **Pair Plot on IRIS Dataset**
 
-🔹To Plot Multiple Pairwise Bivariate Distributions in a Dataset, you can use the sns.pairplot() function.
+🔹 To Plot Multiple Pairwise Bivariate Distributions in a Dataset, you can use the sns.pairplot() function.
 
 ![download](https://github.com/TheMrityunjayPathak/ExploratoryDataAnalysis/assets/123563634/d190d449-b397-4ac3-b28e-df9e9baf0be7)
 
