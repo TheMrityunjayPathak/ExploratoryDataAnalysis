@@ -46,6 +46,14 @@ Jupyter Notebook is required for this project and you can install and set it up 
 
 > Go to Jupyter Notebook and run this code from a cell - `!pip install seaborn`
 
+-------------------------------------------
+
+## Getting Started
+
+1. Clone the repository to your local machine using the following command :
+```
+git clone https://github.com/TheMrityunjayPathak/ExploratoryDataAnalysis.git
+```
 --------------------------------------------
 
 📝 **Steps involved in the Project**
