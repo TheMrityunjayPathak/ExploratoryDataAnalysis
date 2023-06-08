@@ -50,7 +50,7 @@ Jupyter Notebook is required for this project and you can install and set it up 
 
 ## Getting Started
 
-1. Clone the repository to your local machine using the following command :
+- Clone the repository to your local machine using the following command :
 ```
 git clone https://github.com/TheMrityunjayPathak/ExploratoryDataAnalysis.git
 ```
