@@ -10,7 +10,7 @@ Here is My EDA Project on IRIS Dataset where I analyzed the Data by using Seabor
 
 🔹 This Dataset consists of 3 different types of Iris Flower (Setosa, Versicolour, and Virginica).
 
-🔹 The information includes its Petal Lenght, Sepal Length, Petal Width, Sepal Width, Variety of the Flower.
+🔹 The information includes its Petal Lenght, Sepal Length, Petal Width, Sepal Width, Variety of the Flower
 
 📍 **Link to the Dataset :** [Iris Dataset](https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html)
 
@@ -20,9 +20,9 @@ Here is My EDA Project on IRIS Dataset where I analyzed the Data by using Seabor
 
 Jupyter Notebook is required for this project and you can install and set it up in the terminal.
 
-> Install the Notebook - `pip install notebook`
+- Install the Notebook - `pip install notebook`
 
-> Run the Notebook - `jupyter notebook`
+- Run the Notebook - `jupyter notebook`
 
 ------------------------------------------
 
@@ -30,21 +30,21 @@ Jupyter Notebook is required for this project and you can install and set it up 
 
 🔸 **Pandas**
 
-> Go to Terminal and run this code - `pip install pandas`
+- Go to Terminal and run this code - `pip install pandas`
 
-> Go to Jupyter Notebook and run this code from a cell - `!pip install pandas`
+- Go to Jupyter Notebook and run this code from a cell - `!pip install pandas`
 
 🔸 **Matplotlib**
 
-> Go to Terminal and run this code - `pip install matplotlib`
+- Go to Terminal and run this code - `pip install matplotlib`
 
-> Go to Jupyter Notebook and run this code from a cell - `!pip install matplotlib`
+- Go to Jupyter Notebook and run this code from a cell - `!pip install matplotlib`
 
 🔸 **Seaborn**
 
-> Go to Terminal and run this code - `pip install seaborn`
+- Go to Terminal and run this code - `pip install seaborn`
 
-> Go to Jupyter Notebook and run this code from a cell - `!pip install seaborn`
+- Go to Jupyter Notebook and run this code from a cell - `!pip install seaborn`
 
 -------------------------------------------
 
