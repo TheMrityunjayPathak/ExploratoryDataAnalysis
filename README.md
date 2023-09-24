@@ -141,4 +141,4 @@ git clone https://github.com/TheMrityunjayPathak/ExploratoryDataAnalysis.git
 - Using Seaborn and Matplotlib, we created various plots to explore the dataset.
 
 ## Link to the Notebook
-[Exploratory Data Analysis on IRIS Dataset](https://www.kaggle.com/code/themrityunjaypathak/exploratory-data-analysis-on-iris-dataset)
+[Exploratory Data Analysis](https://www.kaggle.com/code/themrityunjaypathak/exploratory-data-analysis-on-iris-dataset)
